@@ -17,4 +17,3 @@ O projeto está completo e funcional. Ele inclui as seguintes seções:
 ## Tecnologias Utilizadas
 - HTML
 - CSS
-- JavaScript
