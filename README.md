@@ -9,6 +9,8 @@ O projeto está completo e funcional. Ele inclui as seguintes seções:
 3. Sobre Mim: Detalhes sobre a vida e carreira da Anna Bella.
 4. Contato: Formulário para entrar em contato com a modelo.
 
+## Acesso ao projeto
+Para explorar o projeto, acesse o link: https://alineebrit.github.io/projetoAnnaBella/index.html
 ## Funcionalidades e Demonstração do Site 📸
 - Navegação suave entre as páginas.
 - Galeria de imagens responsiva.
